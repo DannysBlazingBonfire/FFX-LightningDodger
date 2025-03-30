@@ -1,6 +1,6 @@
 # FFX-LightningDodger
 
-#compatibility
+#Compatibility
 * min python3
 
 #Purpose
