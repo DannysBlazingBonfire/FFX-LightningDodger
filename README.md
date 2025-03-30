@@ -9,6 +9,10 @@
 * caviat: user will still need to move the character manually
 
 #Installation
+opt 1
+* Download and Run the .exe release
+
+opt 2
 - Download the files
 - create a python virtual environment with: python -m venv .venv
 - activate the python virtual environment with: .\.venv\Scripts\activate in cmd
